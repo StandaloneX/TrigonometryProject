@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrigonometryLibrary", "TrigonometryLibrary.csproj", "{25DED5CD-7C2B-4145-8058-CAE3FD8B56AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrigonometryLibrary.Tests", "..\TrigonometryLibraryTests\TrigonometryLibrary.Tests.csproj", "{24BB20A9-C747-43E0-8D48-48B4F31F2740}"
+	ProjectSection(ProjectDependencies) = postProject
+		{25DED5CD-7C2B-4145-8058-CAE3FD8B56AF} = {25DED5CD-7C2B-4145-8058-CAE3FD8B56AF}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25DED5CD-7C2B-4145-8058-CAE3FD8B56AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DED5CD-7C2B-4145-8058-CAE3FD8B56AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DED5CD-7C2B-4145-8058-CAE3FD8B56AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DED5CD-7C2B-4145-8058-CAE3FD8B56AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24BB20A9-C747-43E0-8D48-48B4F31F2740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24BB20A9-C747-43E0-8D48-48B4F31F2740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24BB20A9-C747-43E0-8D48-48B4F31F2740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24BB20A9-C747-43E0-8D48-48B4F31F2740}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9851979-8B3D-4F92-9378-26097E53CF5C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TrigonometryLibrary/1.0.0": {
+        "runtime": {
+          "TrigonometryLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrigonometryLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

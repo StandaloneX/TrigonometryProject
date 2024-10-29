@@ -1,0 +1,11 @@
+C:\Users\Alexey\Desktop\Job\TrigonometryLibrary\bin\Debug\net8.0\TrigonometryLibrary.deps.json
+C:\Users\Alexey\Desktop\Job\TrigonometryLibrary\bin\Debug\net8.0\TrigonometryLibrary.dll
+C:\Users\Alexey\Desktop\Job\TrigonometryLibrary\bin\Debug\net8.0\TrigonometryLibrary.pdb
+C:\Users\Alexey\Desktop\Job\TrigonometryLibrary\obj\Debug\net8.0\TrigonometryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\Desktop\Job\TrigonometryLibrary\obj\Debug\net8.0\TrigonometryLibrary.AssemblyInfoInputs.cache
+C:\Users\Alexey\Desktop\Job\TrigonometryLibrary\obj\Debug\net8.0\TrigonometryLibrary.AssemblyInfo.cs
+C:\Users\Alexey\Desktop\Job\TrigonometryLibrary\obj\Debug\net8.0\TrigonometryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Job\TrigonometryLibrary\obj\Debug\net8.0\TrigonometryLibrary.dll
+C:\Users\Alexey\Desktop\Job\TrigonometryLibrary\obj\Debug\net8.0\refint\TrigonometryLibrary.dll
+C:\Users\Alexey\Desktop\Job\TrigonometryLibrary\obj\Debug\net8.0\TrigonometryLibrary.pdb
+C:\Users\Alexey\Desktop\Job\TrigonometryLibrary\obj\Debug\net8.0\ref\TrigonometryLibrary.dll
